@@ -14,8 +14,8 @@
 ### 👨‍💻 About me
 
 - 🎓 Dual degree in **ASIR** (Network Systems Administration) and **DAW** (Web Application Development)
-- 🛡️ Targeting a **junior cybersecurity position** — available from September 2026
-- 📡 Currently studying for the **CCNA 200-301** (exam August 2026)
+- 🛡️ Targeting a **junior cybersecurity position**
+- 📡 Currently building a certification roadmap oriented towards cybersecurity
 - ☁️ Building hands-on experience with **AWS**, **Azure** and **Docker**
 - 📍 Based in **Valencia, Spain**
 
