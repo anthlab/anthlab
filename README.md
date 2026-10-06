@@ -1,90 +1,105 @@
 <div align="center">
 
-# Hey, I'm Anthony 👋
-### Systems & Cybersecurity · Valencia, Spain
+# Hola, soy Anthony 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anthlab.github.io-00d4aa?style=for-the-badge&logo=github&logoColor=white)](https://anthlab.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anthony--zamora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-zamora-martínez-5382b9235)
-[![Email](https://img.shields.io/badge/Email-anthonyzamoram18@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anthonyzamoram18@hotmail.com)
+### Sistemas, Redes y Ciberseguridad
+
+📍 Valencia, España
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-anthlab.github.io-00d4aa?style=flat-square&logo=github&logoColor=white)](https://anthlab.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony_Zamora-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-zamora-martínez-5382b9235)
 
 </div>
 
 ---
 
-### 👨‍💻 About me
+## 👨‍💻 Sobre mí
 
-- 🎓 Dual degree in **ASIR** (Network Systems Administration) and **DAW** (Web Application Development)
-- 🛡️ Targeting a **junior cybersecurity position**
-- 📡 Currently building a certification roadmap oriented towards cybersecurity
-- ☁️ Building hands-on experience with **AWS**, **Azure** and **Docker**
-- 📍 Based in **Valencia, Spain**
+Soy técnico superior en **ASIR** y **DAW**.
+
+Actualmente estoy cursando la **Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información** en CIPFP Cheste.
+
+Me interesa especialmente la **ciberseguridad defensiva, redes y sistemas**, y actualmente estoy ampliando mis conocimientos mientras preparo la certificación **CCNA**.
+
+Mi objetivo es conseguir experiencia profesional en el sector y seguir desarrollando proyectos relacionados con ciberseguridad.
 
 ---
 
-### 🔧 Tech stack
+## 🛠️ Tecnologías
 
-**Systems & Networking**
+**Sistemas y redes**
 
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Scripting & Development**
+**Scripting y desarrollo**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📜 Certifications
+## 📚 Actualmente aprendiendo
 
-| Certification | Issuer | Status |
-|---|---|---|
-| CCNA 200-301 | Cisco | 🟡 Exam · Aug 2026 |
-| AWS Cloud Practitioner | Amazon Web Services | 🟡 In progress |
-| CompTIA Security+ | CompTIA | ⚪ Planned 2026–27 |
+- 🛡️ Ciberseguridad
+- 🌐 Redes y administración de sistemas
+- 📡 CCNA 200-301
+- 🐧 Linux y Bash
+- 🔍 Análisis de tráfico y logs
+- 🔐 Bastionado de sistemas
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Proyectos
+
+### 🔐 Cybersecurity Toolkit
+
+Toolkit de ciberseguridad desarrollado para practicar Python y conceptos básicos de seguridad.
+
+Actualmente incluye:
+
+- Generador de contraseñas
+
+Próximos módulos:
+
+- Analizador de contraseñas
+- Analizador de IP y red
+- Analizador de URL
+- Verificador de integridad de archivos
+- Analizador de logs
+
+### 📊 SOC Log Analyzer
+
+Proyecto orientado al análisis de logs y detección de eventos de seguridad, con el objetivo de acercarme al funcionamiento de un entorno **SOC**.
+
+---
+
+## 📜 Certificaciones
+
+| Certificación | Estado |
+|---|---|
+| Cisco CCNA 200-301 | 🟡 En progreso |
+| CompTIA Security+ | ⚪ Objetivo 2027–2028 |
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthlab&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4aa&icon_color=00d4aa&text_color=e6edf3&bg_color=161b22)
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthlab&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthlab&layout=compact&theme=github_dark&hide_border=true&title_color=00d4aa&text_color=e6edf3&bg_color=161b22)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthlab&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
-### 🚀 Projects in progress
-
-> Building hands-on projects while studying for the CCNA. First releases coming Q3 2026.
-
-- 🔒 **Home Lab — Segmented Network** · VLANs, firewall, Active Directory
-- 🐍 **Network Audit Script** · Python + Nmap
-- ☁️ **AWS Infrastructure with IAM** · Least-privilege policies + CloudWatch
-
----
-
 <div align="center">
 
-*Open to junior roles in cybersecurity, sysadmin or networking · Spain · Sep 2026*
+Buscando seguir aprendiendo y ganar experiencia en **ciberseguridad, sistemas y redes**.
 
 </div>
